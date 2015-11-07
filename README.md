@@ -1,2 +1,2 @@
 # ucoder
-Resolução dos problema no portal http://www.ucoder.com.br/
+Resolução dos problema do portal http://www.ucoder.com.br/
